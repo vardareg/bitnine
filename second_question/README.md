@@ -27,3 +27,15 @@ The memoization approach is a top-down method that combines the simplicity of th
 - Uses extra space to store intermediate results.
 - Stack overflow can occur for large inputs due to recursion.
 - The memoization table needs to be initialized before use.
+# Compiling and Running the Source Code
+1. Open a terminal or command prompt.
+2. Navigate to the directory where your C file is located using the cd command.
+3. Compile the source code with the GCC compiler using the following command:
+```bash
+gcc -o your_program.c
+```
+4. Run the compiled program with the following command:
+```bash
+./your_program
+```
+You should then see the output of the program in the terminal.
